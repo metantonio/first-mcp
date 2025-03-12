@@ -71,4 +71,4 @@ Feel free to contribute to this project by submitting issues or pull requests.
 
 ## License
 
-[Add your chosen license here]
+MIT
