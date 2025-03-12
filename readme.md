@@ -19,7 +19,7 @@ source venv/bin/activate  # On Unix/macOS
 
 2. Install the required dependencies:
 ```bash
-pip install cursor-mcp
+pip install "mcp[cli]" httpx
 ```
 
 ## Project Structure
@@ -33,7 +33,10 @@ The MCP server is configured in `main.py`. The current implementation:
 
 1. Creates a FastMCP server instance with a custom name
 2. Implements a BMI calculation tool
-3. Exposes the tool through the MCP protocol
+3. Exposes the tool through the MCP protocol:
+    - Open Cursor settings
+    - Add a new MCP server
+
 
 ## Usage
 
