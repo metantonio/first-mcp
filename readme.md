@@ -35,7 +35,10 @@ The MCP server is configured in `main.py`. The current implementation:
 2. Implements a BMI calculation tool
 3. Exposes the tool through the MCP protocol:
     - Open Cursor settings
-    - Add a new MCP server
+    - Add a new MCP server:
+    <img src="./image.png"></img>
+    - Then add the command: `mcp run <path>` and verify the MCP server is running
+    <img src="./image2.png"></img>
 
 
 ## Usage
