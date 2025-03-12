@@ -50,7 +50,9 @@ python main.py
 
 2. The server will start and expose the BMI calculation tool through the MCP protocol.
 
-3. You can interact with the server using Cursor's MCP client interface.
+3. You can interact with the server using Cursor's MCP client interface. Example:
+
+<img src="./image3.png"/>
 
 ## Available Tools
 
