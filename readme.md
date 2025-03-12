@@ -37,7 +37,7 @@ The MCP server is configured in `main.py`. The current implementation:
     - Open Cursor settings
     - Add a new MCP server:
     <img src="./image.png"></img>
-    - Then add the command: `mcp run <path>` and verify the MCP server is running
+    - Then add the command: `mcp run <path-of-main.py>` and verify the MCP server is running
     <img src="./image2.png"></img>
 
 
